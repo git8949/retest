@@ -32,4 +32,4 @@ match('/1[3-9]\d{9}/', $str, '提取手机号');
 </code></pre>
 
 # 运行截图
-![image](http://m.qpic.cn/psc?/4a8de98e-d435-4d24-9b05-3e32f5156d0d/TmEUgtj9EK6.7V8ajmQrEBMCEoAsdALlIXZkzvt9FfMrevVlMAJNQcccAWjGKRvR9CGNtoBBgBXVnPmKWG68NzxYnHOfIrhpAHvoxjc0fis!/b&bo=OANSAQAAAAADF1o!)
+![image](https://upload-images.jianshu.io/upload_images/12714763-dbf10987fb4f21e0.png)
