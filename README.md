@@ -32,4 +32,4 @@ match('/1[3-9]\d{9}/', $str, '提取手机号');
 </code></pre>
 
 # 运行截图
-![avatar](demo.png)
+![image](./demo.png)
